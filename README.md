@@ -3,5 +3,9 @@
 Machine Learning Pythonic Training:
 
 I. Feature Engineering:
-  a. Data Centering
+  a. Standardization
+  b. Min-Max Normalization
+  c. Binning
+  d. Natural Log Transformations
   
+II. 
