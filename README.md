@@ -2,10 +2,10 @@
 
 Machine Learning Pythonic Training:
 
-I. Feature Engineering:
+## I. Feature Engineering:
   a. Standardization
   b. Min-Max Normalization
   c. Binning
   d. Natural Log Transformations
   
-II. 
+## II. Machine Learning Algorithms 
